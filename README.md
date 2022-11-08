@@ -84,11 +84,9 @@ Calculamos el voltaje para R1 y R5 basándonos en la ley de ohm.
 ![image](https://user-images.githubusercontent.com/104911658/200422015-89dd11b1-188d-43e1-8c5b-15b890100286.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/200422075-c597c275-7ec0-4f86-818b-3cb67deba99d.png)
-
-    ![image](https://user-images.githubusercontent.com/104911658/200422122-a09df652-10c9-4053-8700-f581ac71660f.png)
+![image](https://user-images.githubusercontent.com/104911658/200444639-2450aa12-9f10-450e-b96f-ceb9434c1a30.png)
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-Variable	Valor calculado	Valor medido	Error 
 
 ![image](https://user-images.githubusercontent.com/104911658/200422209-7cfa6a2a-f16a-4dac-89f2-880d204ff470.png)
 
