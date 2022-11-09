@@ -89,7 +89,7 @@ Calculamos el voltaje para R1 y R5 basándonos en la ley de ohm.
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![image](https://user-images.githubusercontent.com/104911658/200422209-7cfa6a2a-f16a-4dac-89f2-880d204ff470.png)
+![image](https://user-images.githubusercontent.com/104911658/200847745-7718ae61-2075-4043-bb53-82c4f025b32e.png)
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 
@@ -104,7 +104,7 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/104911658/200422430-eafb3579-fedf-44ed-9819-0dc876f6a1de.png)
+![image](https://user-images.githubusercontent.com/104911658/200848018-ca59d77a-4e98-4dbb-ad8d-b85f62f411ac.png)
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
@@ -136,4 +136,4 @@ BIBLIOGRAFIA
 
 VIDEO
 
-https://youtu.be/tDYopZhJlo0
+
