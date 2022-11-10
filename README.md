@@ -115,7 +115,7 @@ en la misma, de igual manera los valores cumplen con la ley de corriente de Kirc
 suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo.
 
 Respecto al margen de error, es notorio puesto que el simulador TINKERCAD, tiende a redondear los 
-resultados a dos decimales, pero en un espectro general, los valores tanto calculados como medidos, 
+resultados a dos decimales, pero en un aspecto general, los valores tanto calculados como medidos, 
 se acercan.
 
 CONCLUSIONES
