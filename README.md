@@ -104,7 +104,8 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/104911658/200848018-ca59d77a-4e98-4dbb-ad8d-b85f62f411ac.png)
+![image](https://user-images.githubusercontent.com/107088999/201248481-78964c82-270d-43b6-8e4b-ecf4754080a2.png)
+
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.
